@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+    <string name="textNoResults">No hay resultados</string>
+</resources>
